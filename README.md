@@ -15,10 +15,12 @@
 
 👉 I am enthusiastic about learning new programming languages and technologies, fueled by a passion for creating innovative web applications
 
-- [My Project](https://github.com/username/repository-name)
-- [Documentation](https://github.com/username/repository-name/wiki)
-- [Issue #1](https://github.com/username/repository-name/issues/1)
-- [Release v1.0](https://github.com/username/repository-name/releases/tag/v1.0)
+
+## Project
+- # [Django Restfuls API](https://github.com/Naurangi123/Django-Rest-Apis)
+
+## Social Network
+- # LinkedIn https://www.linkedin.com/in/naurangi-lal-aa3175228/
 
 <!--
 **Naurangi123/Naurangi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
